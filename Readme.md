@@ -55,7 +55,7 @@ The system allows users to **create projects, manage tasks, assign users, track 
 - Redux / Context API
 
 ---
-
+```
 ## 📂 Project Structure
 Task_management/
 ├── backend/
@@ -84,7 +84,7 @@ Task_management/
 │   └── vite.config.js
 │
 └── README.md
-
+```
 
 ---
 
